@@ -18,18 +18,18 @@ h1, h2, h3{
 }
 
 h1{
-	color:rgba(255,255,255,0.9);
-	text-align:left;
+	color:black;
+	text-align:center;
 }
 
 h2{
-	color:rgba(255,255,255,0.6);
+	color:black;
 	padding:0.2em 0;
-	text-align:left;
+	text-align:center;
 }
 
 h3{
-	color:rgba(0,0,0,.75);
+	color:black;
 	padding:3em 0 0.1em 0;
 	text-align:center;
 	margin:2%;
@@ -47,11 +47,11 @@ h4,h5, h6{
 
 header{
 	width:98%;
-	top:40%;
+	top:80%;
 	position: absolute;
 	text-align:center;
 	z-index:9;
-	color:white;
+	color:black;
 }
 
 @media screen and (max-width: 980px){
